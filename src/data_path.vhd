@@ -19,7 +19,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 library work;
 use work.k_and_s_pkg.all;
-use IEEE.STD_LOGIC_SIGNED.all; -- 
+use IEEE.STD_LOGIC_SIGNED.all; 
 use ieee.NUMERIC_STD.all;
 
 entity data_path is
